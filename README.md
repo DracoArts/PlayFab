@@ -134,7 +134,8 @@ By integrating PlayFab with Unity, developers can create more engaging and featu
 ![playfabLogin ](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/PlayfabLogin.gif)
 ## Authors
 
-- [@DracoArts](https://github.com/orgs/DracoArts)
+- [@MirHamzaHasan](https://github.com/MirHamzaHasan)
+- [@WebSite](https://mirhamzahasan.com)
 
  - 
 
